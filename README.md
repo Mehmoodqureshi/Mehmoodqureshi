@@ -1,8 +1,8 @@
-# Hi, I'm Mehmood Qureshi 👋
+# Hi, I'm Mehmood ur Rehman Qureshi 👋
 
-**Frontend Developer at Pixlabs** · Abbottabad, Pakistan
+**Senior AI Product Engineer — Agents & MCP @ WPOS** · Abbottabad, Pakistan
 
-I build clean, user-centric web interfaces with **React, Next.js, and TypeScript** — and developer tooling around the **Model Context Protocol (MCP)** that lets AI agents drive real-world software. All three of my MCP servers are published on npm.
+I build **AI agents and Model Context Protocol (MCP) tooling** end-to-end — the layer that lets AI hosts drive real-world software. I come from a strong frontend background (**React, Next.js, TypeScript, Tailwind**) and now ship agentic systems and developer tools. All three of my MCP servers are published on npm.
 
 ## 🚀 Featured projects
 
@@ -14,19 +14,30 @@ I build clean, user-centric web interfaces with **React, Next.js, and TypeScript
 
 ## 🔧 What I work with
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**AI / Agents**
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents_%2F_Agentic_Systems-6E56CF?style=flat&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+**Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+## 💼 Experience
+
+- **Senior AI Product Engineer, Agents & MCP** — WPOS *(Mar 2026 – Present)* · Remote
+- **Frontend Web Developer** — 5 Stars Real Estate *(Dec 2022 – Present)*
+- **Full-stack Developer** — CogniCloud *(Jun 2025 – Nov 2025)*
+- **Web Developer** — Orca Clan Tech *(Jan 2021 – Nov 2022)*
 
 ## 📫 Get in touch
 
-- 💼 Frontend Developer at **Pixlabs**
+- 🌐 LinkedIn: [mehmood-ur-rehman-qureshi](https://www.linkedin.com/in/mehmood-ur-rehman-qureshi/)
+- 🎓 COMSATS University Islamabad, Abbottabad
 - 📍 Abbottabad, Pakistan
 
 ---

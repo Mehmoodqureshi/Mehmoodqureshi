@@ -2,7 +2,15 @@
 
 **Frontend Developer at Pixlabs** · Abbottabad, Pakistan
 
-I build clean, user-centric web interfaces with **React, Next.js, and TypeScript** — and lately, developer tooling around the **Model Context Protocol (MCP)** that lets AI agents drive real-world software.
+I build clean, user-centric web interfaces with **React, Next.js, and TypeScript** — and developer tooling around the **Model Context Protocol (MCP)** that lets AI agents drive real-world software. All three of my MCP servers are published on npm.
+
+## 🚀 Featured projects
+
+| Project | What it is | Try it |
+|---------|------------|--------|
+| [**chrome-mcp**](https://github.com/Mehmoodqureshi/chrome-mcp) [![npm](https://img.shields.io/npm/v/%40mehmoodqureshi%2Fchrome-mcp?label=npm)](https://www.npmjs.com/package/@mehmoodqureshi/chrome-mcp) | Drive a real Chrome browser over MCP — stdio MCP server + MV3 extension, with a Playwright CDP fallback | `npx @mehmoodqureshi/chrome-mcp` |
+| [**seo-mcp**](https://github.com/Mehmoodqureshi/seo-mcp) [![npm](https://img.shields.io/npm/v/%40mehmoodqureshi%2Fseo-mcp?label=npm)](https://www.npmjs.com/package/@mehmoodqureshi/seo-mcp) | SEO toolkit as an MCP server — free, keyless on-page audits, sitemaps, structured data, broken-link checks, PageSpeed | `npx @mehmoodqureshi/seo-mcp` |
+| [**linkedin-mcp**](https://github.com/Mehmoodqureshi/linkedin-mcp) [![npm](https://img.shields.io/npm/v/%40mehmoodqureshi%2Flinkedin-mcp?label=npm)](https://www.npmjs.com/package/@mehmoodqureshi/linkedin-mcp) | Drive LinkedIn via Playwright, exposed as an MCP server — runs standalone (npx) or as an Electron tray app | `npx @mehmoodqureshi/linkedin-mcp` |
 
 ## 🔧 What I work with
 
@@ -16,17 +24,9 @@ I build clean, user-centric web interfaces with **React, Next.js, and TypeScript
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-## 🚀 Featured projects
-
-| Project | What it is |
-|---------|------------|
-| [**chrome-mcp**](https://github.com/Mehmoodqureshi/chrome-mcp) | Drive a real Chrome browser over MCP — stdio MCP server + MV3 extension, with a Playwright CDP fallback |
-| [**seo-mcp**](https://github.com/Mehmoodqureshi/seo-mcp) | SEO toolkit as an MCP server — free, keyless on-page audits, sitemaps, structured data, broken-link checks, PageSpeed |
-| [**linkedin-mcp**](https://github.com/Mehmoodqureshi/linkedin-mcp) | Drive LinkedIn via Playwright, exposed as an MCP server — runs standalone (npx) or as an Electron tray app |
-
 ## 📫 Get in touch
 
-- 💼 Company: [Pixlabs](https://github.com/Mehmoodqureshi)
+- 💼 Frontend Developer at **Pixlabs**
 - 📍 Abbottabad, Pakistan
 
 ---
